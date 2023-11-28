@@ -93,9 +93,9 @@ Enhance your Spring Boot MVC development experience with our comprehensive exten
 
 | Changes descriptions             | Version No. |
 | :--------------------------------- | ------------- |
-| *Existing Tag was modified 🎉️* |             |
-| *New Tag was added 🎉️*         |             |
-| *Bug fix 🎉️*                   |             |
+| *New Extensions were added 🎉️* |             |
+| *New Features were added 🎉️*         |             |
+| *Bug fix 🎉️*                   |   0.0.2          |
 
 ### Version : 0.0.1 🎉️
 
