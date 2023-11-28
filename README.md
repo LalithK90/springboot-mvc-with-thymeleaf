@@ -25,7 +25,6 @@ Enhance your Spring Boot MVC development experience with our comprehensive exten
 
 ---
 
-
 | No | Click Here to install from VS Code Marketplace                                                                                              | Description                                                                                                                                                                                                                                                                                                 |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1  | [*:emojisense:*](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense)                                                    | Adds suggestions and autocomplete for emoji                                                                                                                                                                                                                                                                 |
