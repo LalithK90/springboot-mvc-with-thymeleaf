@@ -1,4 +1,6 @@
 # Streamline Your Spring Boot MVC Development with Thymeleaf README
+![](https://github.com/LalithK90/springboot-mvc-with-thymeleaf/blob/master/assets/icon/icon.png)
+
 
 ## Working with Markdown
 
