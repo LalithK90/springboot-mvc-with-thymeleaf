@@ -3,7 +3,7 @@
   "displayName": "Spring Thymeleaf Full E-Pack",
   "description": "Streamline Your Spring Boot MVC Development with Thymeleaf \n\n Enhance your Spring Boot MVC development experience with our comprehensive extension pack, meticulously crafted to provide all the tools you need to build exceptional applications with Thymeleaf.",
   "icon": "assets/icon/icon.png",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "LalithK90",
   "engines": {
     "vscode": "^1.84.0"
@@ -24,6 +24,7 @@
   "bierner.emojisen",
   "aaron-bond.better-comments",
   "anbuselvanrocky.bootstrap5-vscode",
+  "torresgol10.bootstrap-class-autocomplete",
   "dzhavat.bracket-pair-toggler",
   "shengchen.vscode-checkstyle",
   "formulahendry.code-runner",
